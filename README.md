@@ -4,13 +4,13 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# 👋 ¡Hola! Soy Juan Esteban Alzate Cuartas
+# ¡Hola! Soy Juan Esteban Alzate Cuartas
 
-🎓 Estudiante de Ingeniería en Informática en la Universidad de Caldas, Colombia.
+Estudiante de Ingeniería en Informática en la Universidad de Caldas, Colombia.
 
-💻 Soy un desarrollador Full Stack Junior apasionado por la creación de soluciones de software escalables y el aprendizaje continuo de nuevas tecnologías.
+Soy un desarrollador Full Stack Junior apasionado por la creación de soluciones de software escalables y el aprendizaje continuo de nuevas tecnologías.
 
-## 🚀 Sobre mí
+## Sobre mí
 
 * 🔹 Desarrollo de APIs REST utilizando Spring Boot.
 * 🔹 Construcción de aplicaciones web con Angular.
@@ -18,7 +18,7 @@
 * 🔹 Manejo de control de versiones con Git y GitHub.
 * 🔹 Interés en arquitectura de software, desarrollo backend y buenas prácticas de programación.
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 ### Backend
 
@@ -32,20 +32,17 @@ Angular • TypeScript • JavaScript • HTML • CSS
 
 Git • GitHub • Maven • SQL
 
-## 📚 Actualmente
+## Actualmente
 
-* 🎓 Cursando Ingeniería en Informática.
-* 🌱 Profundizando mis conocimientos en desarrollo backend, arquitectura de software y buenas prácticas de ingeniería.
-* 🚀 Construyendo proyectos que me permitan aplicar tecnologías modernas y fortalecer mis habilidades como desarrollador.
+* Cursando Ingeniería en Informática.
+* Profundizando mis conocimientos en desarrollo backend, arquitectura de software y buenas prácticas de ingeniería.
+* Construyendo proyectos que me permitan aplicar tecnologías modernas y fortalecer mis habilidades como desarrollador.
 
-## 🎯 Objetivo Profesional
+## Objetivo Profesional
 
 Busco oportunidades de prácticas y posiciones como Desarrollador Backend o Full Stack Junior donde pueda aportar mis conocimientos, aprender de profesionales experimentados y participar en la construcción de productos tecnológicos de impacto.
 
-## 📫 Contacto
-
-📧 [juanestebanalzatecuartas@gmail.com](mailto:juanestebanalzatecuartas@gmail.com)
-📱 +57 312 633 1003
-📍 Colombia
+## Contacto
+www.linkedin.com/in/juan-esteban-alzate-cuartas-64a944412
 
 "El aprendizaje constante y la curiosidad por resolver problemas son la base de mi crecimiento como desarrollador."
